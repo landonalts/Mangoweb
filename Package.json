@@ -1,11 +1,9 @@
 {
-  "name": "Mangoweb",
+  "name": "ultraviolet-proxy",
   "version": "0.1.0",
+  "type": "module",
+  "engines": { "node": "18.x" },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
-    "node-fetch": "^2.6.7"
-  },
-  "engines": {
-    "node": "18.x"
+    "cheerio": "^1.0.0-rc.12"
   }
 }
