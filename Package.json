@@ -1,0 +1,11 @@
+{
+  "name": "Mangoweb",
+  "version": "0.1.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
